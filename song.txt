@@ -1,2 +1,4 @@
 line 1: The stars are shining brihgt tonight,
 line 2: The moon is casting a silvery light.
+Line 3: We walk along the silent shore,
+Line 4: Seeking what we're searching for.
